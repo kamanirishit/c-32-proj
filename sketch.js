@@ -132,6 +132,6 @@ async function changebg(){
       }else{
         backgroundImg=loadImage("sprites/bgn.jpg");
       }
- //backgroundImg=loadImage(bg);
+console.log(daytime);
 
 }
